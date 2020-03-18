@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "309501651134",
+    "firebase_url": "https://cesc-mrbd.firebaseio.com",
+    "project_id": "cesc-mrbd",
+    "storage_bucket": "cesc-mrbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309501651134:android:6cd442e886b82b57",
+        "android_client_info": {
+          "package_name": "com.cesc.mrbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309501651134-alubjcm50b94l0cjpgevaet4ttbtuke7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXmHUqYPdI9Pki8d3TOTsswiEtG1togA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

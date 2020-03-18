@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CESC_MRBD_Android_App-db633135b695e0731571797a5c26e66852e68bf6.iml" filepath="$PROJECT_DIR$/CESC_MRBD_Android_App-db633135b695e0731571797a5c26e66852e68bf6.iml" group="CESC_MRBD_Android_App-db633135b695e0731571797a5c26e66852e68bf6" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CESC_MRBD_Android_App-db633135b695e0731571797a5c26e66852e68bf6/app" />
+    </modules>
+  </component>
+</project>
